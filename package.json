@@ -1,0 +1,25 @@
+{
+  "name": "melinve.github.io",
+  "version": "1.0.0",
+  "description": "SC Melin VE SRL github hosted site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elena-vasalachi/melinve.github.io.git"
+  },
+  "keywords": [
+    "melinve"
+  ],
+  "author": "elena.vasalachi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elena-vasalachi/melinve.github.io/issues"
+  },
+  "homepage": "https://github.com/elena-vasalachi/melinve.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

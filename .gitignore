@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+src/*
+node_modules/*
+dist/*
+# Except this file
+!.gitignore
